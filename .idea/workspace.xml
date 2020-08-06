@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66839418-65c4-4aa0-80ad-73448cb84a58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1c9BALRyizNFYSu5pYlyz8P3t0w" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Nopcommerce/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nopcommerce/src/test/java" />
+      <recent name="$PROJECT_DIR$/Generic/Browser-driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/abdibare/Documents/EbayAutomation/RestAssured/src/test/java/resources/RestTestRunner.xml">
+    <configuration name="/Users/abdibare/Documents/EbayAutomation/Ebay/src/test/resources/EbayTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/abdibare/Documents/EbayAutomation/Ebay/src/test/resources/MotorPageTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/MotorPageTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/abdibare/Documents/EbayAutomation/Google/src/test/java/resources/GoogleSearchTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Google/src/test/java/resources/GoogleSearchTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/abdibare/Documents/EbayAutomation/Nopcommerce/src/test/java/resources/LoginPageTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nopcommerce" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Nopcommerce/src/test/java/resources/LoginPageTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/abdibare/Documents/EbayAutomation/RestAssured/src/test/java/resources/RestTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RestAssured/src/test/java/resources/RestTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/abdibare/Documents/EbayAutomation/RestAssured/src/test/java/resources/RestTestRunner.xml" />
+        <item itemvalue="TestNG./Users/abdibare/Documents/EbayAutomation/Nopcommerce/src/test/java/resources/LoginPageTestRunner.xml" />
+        <item itemvalue="TestNG./Users/abdibare/Documents/EbayAutomation/Google/src/test/java/resources/GoogleSearchTestRunner.xml" />
+        <item itemvalue="TestNG./Users/abdibare/Documents/EbayAutomation/Ebay/src/test/resources/MotorPageTestRunner.xml" />
+        <item itemvalue="TestNG./Users/abdibare/Documents/EbayAutomation/Ebay/src/test/resources/EbayTestRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66839418-65c4-4aa0-80ad-73448cb84a58" name="Default Changelist" comment="" />
+      <created>1589930783420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589930783420</updated>
+    </task>
+    <servers />
+  </component>
+</project>
